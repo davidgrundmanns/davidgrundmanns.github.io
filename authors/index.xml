@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | David M. Grundmanns</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome! I am a Research Associate at the &lt;a href=&#34;google.com&#34; target=&#34;_blank&#34;&gt;Collaborative Research Center 884&lt;/a&gt; &amp;ldquo;Political Economy of Reforms&amp;rdquo; and a PhD Candidate in Political Science at the &lt;a href=&#34;https://gess.uni-mannheim.de/&#34; target=&#34;_blank&#34;&gt;Graduate School of Economic and Social Sciences&lt;/a&gt; at the University of Mannheim. I am researching judicial politics and interdependent strategies of judicial and political actors. Making use of text as data for further statistical modeling is at the core of my methodological interests.&lt;/p&gt;
+
+&lt;p&gt;For the project C4 of the CRC 884, we are scaling the German Federal Constitutional Court on a unidimensional latent policy space utilizing Bayesian ideal point estimation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
