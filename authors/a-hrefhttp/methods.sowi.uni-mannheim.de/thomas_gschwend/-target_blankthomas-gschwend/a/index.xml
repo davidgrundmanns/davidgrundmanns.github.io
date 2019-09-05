@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;a href=&#34;http://methods.sowi.uni-mannheim.de/thomas_gschwend/&#34; target=&#34;_blank&#34;&gt;Thomas Gschwend&lt;/a&gt; | David M. Grundmanns</title>
+    <link>/authors/a-hrefhttp/methods.sowi.uni-mannheim.de/thomas_gschwend/-target_blankthomas-gschwend/a/</link>
+      <atom:link href="/authors/a-hrefhttp/methods.sowi.uni-mannheim.de/thomas_gschwend/-target_blankthomas-gschwend/a/index.xml" rel="self" type="application/rss+xml" />
+    <description>&lt;a href=&#34;http://methods.sowi.uni-mannheim.de/thomas_gschwend/&#34; target=&#34;_blank&#34;&gt;Thomas Gschwend&lt;/a&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>&lt;a href=&#34;http://methods.sowi.uni-mannheim.de/thomas_gschwend/&#34; target=&#34;_blank&#34;&gt;Thomas Gschwend&lt;/a&gt;</title>
+      <link>/authors/a-hrefhttp/methods.sowi.uni-mannheim.de/thomas_gschwend/-target_blankthomas-gschwend/a/</link>
+    </image>
+    
+    <item>
+      <title>Judicial Positions on Political Reform. Designing common policy scores from judicial text.</title>
+      <link>/publication/judicial-positions/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/judicial-positions/</guid>
+      <description>&lt;p&gt;Status: Draft presented @ EPSA 2019 &lt;br /&gt;
+upcoming: ECPR 2019&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
