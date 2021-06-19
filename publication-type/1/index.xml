@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | David M. Grundmanns</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David M. Grundmanns</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Mobilizing the Public. The Importance of Mediators for Judicial Decision-Making.</title>
+      <link>/publication/epsa2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/epsa2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Constitutional Courts Write Their Opinions Differently Under Public Scrutiny?</title>
+      <link>/publication/ecpr2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ecpr2020/</guid>
+      <description>&lt;p&gt;Draft presented at EPSA 2020.&lt;/p&gt;
+&lt;p&gt;Draft presented at ECPR 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Judicial Positions on Political Reform. Designing common policy scores from judicial text</title>
+      <link>/publication/ecpr2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ecpr2019/</guid>
+      <description>&lt;p&gt;Draft presented at ECPR 2019.&lt;/p&gt;
+&lt;p&gt;Draft presented at EPSA 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

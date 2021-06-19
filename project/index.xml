@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | David M. Grundmanns</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David M. Grundmanns</copyright><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Get the Word Out. The Formation and Political Impact of Judicial Opinion-Writing</title>
+      <link>/project/mzes/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mzes/</guid>
+      <description>&lt;p&gt;How do courts exercise political power through opinion-writing? To understand the influence of courts, current research focuses on the result of judicial decisions, namely whether a referral by a plaintiff is justified or not. This project takes a broader perspective on the influence of judicial opinions. Instead of focusing on the general result, it is necessary to account for the substantive variance in opinion-writing.
+The goal of this project is to use established and novel methods of automated text analysis to map content-related aspects of judicial decisions and relate them to public perception. For example, access to judicial opinions may be easy or difficult, depending on the use of either simple, content-related words or technical jargon specific to a field. Easily accessible opinions are noticed by a larger audience compared to complex opinions that are difficult to process in the media. This implies that judges can influence media coverage through opinion-writing, and this determines to which extent judicial decisions receive public attention. Public attention should not only be observed in traditional media outlets, but also in the way citizens talk about judicial decisions in social media.&lt;/p&gt;
+&lt;p&gt;Consequently, assuming that judges do not generate text by chance, judicial opinions are a strategic instrument. On the one hand, judges develop arguments strategically to influence social developments. On the other hand, judges are limited by the political environment and therefore must adapt their arguments strategically.&lt;/p&gt;
+&lt;p&gt;Text is at the heart of every judicial opinion, regardless of the political or legal system. Therefore, if opinions can be analysed automatically, then the societal influence of courts in different systems can be compared using the same methods. To illustrate this, this project analyses publicly available decisions made by the German Federal Constitutional Court, the US Supreme Court, and the French Conseil Constitutionnel. The three courts differ partly in their structure, their degree of politicisation, and the extent to which they make decisions. By comparing the three courts, this project develops a better understanding of judicial opinion formation in fundamentally different systems. This is important, as courts resolve controversial political and societal issues.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  Research Associate   11.2020 - now&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring a common space and the dynamics of reform positions: Non-standard tools, non-standard actors</title>
+      <link>/project/sfb/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/sfb/</guid>
+      <description>&lt;p&gt;The C4 project is tasked with developing useful quantitative tools that make spatial placement of political actors possible. Having comparative measures enables researchers to test theories and has proven powerful in explaining important attributes of the political economy of reforms.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  Research Associate   09.2019 - 12.2020 
+  Research Assistant   10.2018 - 08.2019&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

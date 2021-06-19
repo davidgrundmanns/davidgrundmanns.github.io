@@ -5,39 +5,12 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David M. Grundmanns</copyright><lastBuildDate>Thu, 24 Jun 2021 15:30:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome! I am a Research Associate at the &lt;a href=&#34;google.com&#34; target=&#34;_blank&#34;&gt;Collaborative Research Center 884&lt;/a&gt; &amp;ldquo;Political Economy of Reforms&amp;rdquo; and a PhD Student in Political Science at the &lt;a href=&#34;https://gess.uni-mannheim.de/&#34; target=&#34;_blank&#34;&gt;Graduate School of Economic and Social Sciences&lt;/a&gt; at the University of Mannheim. I am researching judicial politics and interdependent strategies of judicial and political actors. Making use of text as data for further statistical modeling is at the core of my methodological interests.&lt;/p&gt;
-
-&lt;p&gt;For the project C4 of the CRC 884, we are scaling the German Federal Constitutional Court on a unidimensional latent policy space utilizing Bayesian ideal point estimation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>&lt;a href=&#34;http://methods.sowi.uni-mannheim.de/thomas_gschwend/&#34; target=&#34;_blank&#34;&gt;Thomas Gschwend&lt;/a&gt;</title>
-      <link>/authors/a-hrefhttp/methods.sowi.uni-mannheim.de/thomas_gschwend/-target_blankthomas-gschwend/a/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a-hrefhttp/methods.sowi.uni-mannheim.de/thomas_gschwend/-target_blankthomas-gschwend/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;a href=&#34;https://benjamin-engst.de/&#34; target=&#34;_blank&#34;&gt;Benjamin G. Engst&lt;/a&gt;</title>
-      <link>/authors/a-hrefhttps/benjamin-engst.de/-target_blankbenjamin-g.-engst/a/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/a-hrefhttps/benjamin-engst.de/-target_blankbenjamin-g.-engst/a/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
