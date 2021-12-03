@@ -5,12 +5,20 @@
     <link>/author/david-m.-grundmanns/</link>
       <atom:link href="/author/david-m.-grundmanns/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Grundmanns</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David M. Grundmanns</copyright><lastBuildDate>Thu, 02 Sep 2021 10:15:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 David M. Grundmanns</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/david-m.-grundmanns/avatar_hu1eb99d566603dc0ff770670e4648b0e5_11973_270x270_fill_q75_lanczos_center.jpg</url>
       <title>David M. Grundmanns</title>
       <link>/author/david-m.-grundmanns/</link>
     </image>
+    
+    <item>
+      <title>A Common Policy Space. Estimating positions of highest courts and political actors using amici briefs.</title>
+      <link>/publication/scaling/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/scaling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mobilizing the Public - The Importance of Mediators for Judicial Decision-Making</title>
@@ -58,16 +66,6 @@ The goal of this project is to use established and novel methods of automated te
       <guid>/publication/ecpr2020/</guid>
       <description>&lt;p&gt;Draft presented at EPSA 2020.&lt;/p&gt;
 &lt;p&gt;Draft presented at ECPR 2020.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Judicial Positions on Political Reform. Designing common policy scores from judicial text</title>
-      <link>/publication/ecpr2019/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ecpr2019/</guid>
-      <description>&lt;p&gt;Draft presented at ECPR 2019.&lt;/p&gt;
-&lt;p&gt;Draft presented at EPSA 2019.&lt;/p&gt;
 </description>
     </item>
     
