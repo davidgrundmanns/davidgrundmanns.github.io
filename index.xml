@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David M. Grundmanns</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>davidgrundmanns.com/</link>
+      <atom:link href="davidgrundmanns.com/index.xml" rel="self" type="application/rss+xml" />
     <description>David M. Grundmanns</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 David M. Grundmanns</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
+      <url>/davidgrundmanns.com/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
       <title>David M. Grundmanns</title>
-      <link>/</link>
+      <link>davidgrundmanns.com/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>/courses/example/python/</link>
+      <link>davidgrundmanns.com/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/python/</guid>
+      <guid>davidgrundmanns.com/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>/courses/example/visualization/</link>
+      <link>davidgrundmanns.com/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/visualization/</guid>
+      <guid>davidgrundmanns.com/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>/courses/example/stats/</link>
+      <link>davidgrundmanns.com/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/courses/example/stats/</guid>
+      <guid>davidgrundmanns.com/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,25 +109,25 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>A Common Policy Space. Estimating positions of highest courts and political actors using amici briefs.</title>
-      <link>/publication/scaling/</link>
+      <link>davidgrundmanns.com/publication/scaling/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/scaling/</guid>
+      <guid>davidgrundmanns.com/publication/scaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobilizing the Public - The Importance of Mediators for Judicial Decision-Making</title>
-      <link>/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</link>
+      <link>davidgrundmanns.com/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</link>
       <pubDate>Thu, 02 Sep 2021 10:15:00 +0000</pubDate>
-      <guid>/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</guid>
+      <guid>davidgrundmanns.com/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobilizing the Public. The Importance of Mediators for Judicial Decision-Making.</title>
-      <link>/publication/ecpr2021/</link>
+      <link>davidgrundmanns.com/publication/ecpr2021/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/ecpr2021/</guid>
+      <guid>davidgrundmanns.com/publication/ecpr2021/</guid>
       <description>&lt;p&gt;Draft presented at EPSA 2021.&lt;/p&gt;
 &lt;p&gt;Draft presented at ECPR 2021.&lt;/p&gt;
 </description>
@@ -135,25 +135,17 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Give them the word, they sharpen the sword. How high courts use language to exert political and societal power</title>
-      <link>/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</link>
+      <link>davidgrundmanns.com/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</link>
       <pubDate>Thu, 24 Jun 2021 15:30:00 +0000</pubDate>
-      <guid>/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The impact of external actors on judicial decision-making</title>
-      <link>/talk/the-impact-of-external-actors-on-judicial-decision-making/</link>
-      <pubDate>Thu, 24 Jun 2021 09:00:00 +0000</pubDate>
-      <guid>/talk/the-impact-of-external-actors-on-judicial-decision-making/</guid>
+      <guid>davidgrundmanns.com/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get the Word Out. The Formation and Political Impact of Judicial Opinion-Writing</title>
-      <link>/project/mzes/</link>
+      <link>davidgrundmanns.com/project/mzes/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/project/mzes/</guid>
+      <guid>davidgrundmanns.com/project/mzes/</guid>
       <description>&lt;p&gt;How do courts exercise political power through opinion-writing? To understand the influence of courts, current research focuses on the result of judicial decisions, namely whether a referral by a plaintiff is justified or not. This project takes a broader perspective on the influence of judicial opinions. Instead of focusing on the general result, it is necessary to account for the substantive variance in opinion-writing.
 The goal of this project is to use established and novel methods of automated text analysis to map content-related aspects of judicial decisions and relate them to public perception. For example, access to judicial opinions may be easy or difficult, depending on the use of either simple, content-related words or technical jargon specific to a field. Easily accessible opinions are noticed by a larger audience compared to complex opinions that are difficult to process in the media. This implies that judges can influence media coverage through opinion-writing, and this determines to which extent judicial decisions receive public attention. Public attention should not only be observed in traditional media outlets, but also in the way citizens talk about judicial decisions in social media.&lt;/p&gt;
 &lt;p&gt;Consequently, assuming that judges do not generate text by chance, judicial opinions are a strategic instrument. On the one hand, judges develop arguments strategically to influence social developments. On the other hand, judges are limited by the political environment and therefore must adapt their arguments strategically.&lt;/p&gt;
@@ -164,9 +156,9 @@ The goal of this project is to use established and novel methods of automated te
     
     <item>
       <title>Do Constitutional Courts Write Their Opinions Differently Under Public Scrutiny?</title>
-      <link>/publication/ecpr2020/</link>
+      <link>davidgrundmanns.com/publication/ecpr2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ecpr2020/</guid>
+      <guid>davidgrundmanns.com/publication/ecpr2020/</guid>
       <description>&lt;p&gt;Draft presented at EPSA 2020.&lt;/p&gt;
 &lt;p&gt;Draft presented at ECPR 2020.&lt;/p&gt;
 </description>
@@ -174,9 +166,9 @@ The goal of this project is to use established and novel methods of automated te
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>davidgrundmanns.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>davidgrundmanns.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -303,9 +295,9 @@ Three
     
     <item>
       <title>Measuring a common space and the dynamics of reform positions: Non-standard tools, non-standard actors</title>
-      <link>/project/sfb/</link>
+      <link>davidgrundmanns.com/project/sfb/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/project/sfb/</guid>
+      <guid>davidgrundmanns.com/project/sfb/</guid>
       <description>&lt;p&gt;The C4 project is tasked with developing useful quantitative tools that make spatial placement of political actors possible. Having comparative measures enables researchers to test theories and has proven powerful in explaining important attributes of the political economy of reforms.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;  Research Associate   09.2019 - 12.2020 
   Research Assistant   10.2018 - 08.2019&lt;/code&gt;&lt;/pre&gt;
@@ -314,9 +306,9 @@ Three
     
     <item>
       <title></title>
-      <link>/admin/config.yml</link>
+      <link>davidgrundmanns.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/admin/config.yml</guid>
+      <guid>davidgrundmanns.com/admin/config.yml</guid>
       <description></description>
     </item>
     

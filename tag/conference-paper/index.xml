@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference paper | David M. Grundmanns</title>
-    <link>/tag/conference-paper/</link>
-      <atom:link href="/tag/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <link>davidgrundmanns.com/tag/conference-paper/</link>
+      <atom:link href="davidgrundmanns.com/tag/conference-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference paper</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 David M. Grundmanns</copyright><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
+      <url>/davidgrundmanns.com/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
       <title>Conference paper</title>
-      <link>/tag/conference-paper/</link>
+      <link>davidgrundmanns.com/tag/conference-paper/</link>
     </image>
     
     <item>
       <title>Mobilizing the Public. The Importance of Mediators for Judicial Decision-Making.</title>
-      <link>/publication/ecpr2021/</link>
+      <link>davidgrundmanns.com/publication/ecpr2021/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/ecpr2021/</guid>
+      <guid>davidgrundmanns.com/publication/ecpr2021/</guid>
       <description>&lt;p&gt;Draft presented at EPSA 2021.&lt;/p&gt;
 &lt;p&gt;Draft presented at ECPR 2021.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Do Constitutional Courts Write Their Opinions Differently Under Public Scrutiny?</title>
-      <link>/publication/ecpr2020/</link>
+      <link>davidgrundmanns.com/publication/ecpr2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ecpr2020/</guid>
+      <guid>davidgrundmanns.com/publication/ecpr2020/</guid>
       <description>&lt;p&gt;Draft presented at EPSA 2020.&lt;/p&gt;
 &lt;p&gt;Draft presented at ECPR 2020.&lt;/p&gt;
 </description>
