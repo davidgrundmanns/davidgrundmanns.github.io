@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | David M. Grundmanns</title>
-    <link>davidgrundmanns.com/event/</link>
-      <atom:link href="davidgrundmanns.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 David M. Grundmanns</copyright><lastBuildDate>Thu, 02 Sep 2021 10:15:00 +0000</lastBuildDate>
     <image>
-      <url>/davidgrundmanns.com/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>davidgrundmanns.com/event/</link>
+      <link>/event/</link>
     </image>
     
     <item>
       <title>Mobilizing the Public - The Importance of Mediators for Judicial Decision-Making</title>
-      <link>davidgrundmanns.com/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</link>
+      <link>/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</link>
       <pubDate>Thu, 02 Sep 2021 10:15:00 +0000</pubDate>
-      <guid>davidgrundmanns.com/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</guid>
+      <guid>/talk/mobilizing-the-public-the-importance-of-mediators-for-judicial-decision-making/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Give them the word, they sharpen the sword. How high courts use language to exert political and societal power</title>
-      <link>davidgrundmanns.com/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</link>
+      <link>/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</link>
       <pubDate>Thu, 24 Jun 2021 15:30:00 +0000</pubDate>
-      <guid>davidgrundmanns.com/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</guid>
+      <guid>/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</guid>
       <description></description>
     </item>
     

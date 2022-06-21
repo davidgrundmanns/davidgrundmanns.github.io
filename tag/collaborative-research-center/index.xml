@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaborative Research Center | David M. Grundmanns</title>
-    <link>davidgrundmanns.com/tag/collaborative-research-center/</link>
-      <atom:link href="davidgrundmanns.com/tag/collaborative-research-center/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/collaborative-research-center/</link>
+      <atom:link href="/tag/collaborative-research-center/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaborative Research Center</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 David M. Grundmanns</copyright><lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/davidgrundmanns.com/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
       <title>Collaborative Research Center</title>
-      <link>davidgrundmanns.com/tag/collaborative-research-center/</link>
+      <link>/tag/collaborative-research-center/</link>
     </image>
     
     <item>
       <title>Measuring a common space and the dynamics of reform positions: Non-standard tools, non-standard actors</title>
-      <link>davidgrundmanns.com/project/sfb/</link>
+      <link>/project/sfb/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>davidgrundmanns.com/project/sfb/</guid>
+      <guid>/project/sfb/</guid>
       <description>&lt;p&gt;The C4 project is tasked with developing useful quantitative tools that make spatial placement of political actors possible. Having comparative measures enables researchers to test theories and has proven powerful in explaining important attributes of the political economy of reforms.&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;  Research Associate   09.2019 - 12.2020 
   Research Assistant   10.2018 - 08.2019&lt;/code&gt;&lt;/pre&gt;

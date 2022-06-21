@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | David M. Grundmanns</title>
-    <link>davidgrundmanns.com/categories/</link>
-      <atom:link href="davidgrundmanns.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 David M. Grundmanns</copyright>
     <image>
-      <url>/davidgrundmanns.com/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
+      <url>/media/icon_hu37d65fd6413083f790f1d79d0f93a898_1592_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>davidgrundmanns.com/categories/</link>
+      <link>/categories/</link>
     </image>
     
   </channel>

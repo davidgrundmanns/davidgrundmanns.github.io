@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Gschwend | David M. Grundmanns</title>
-    <link>davidgrundmanns.com/author/thomas-gschwend/</link>
-      <atom:link href="davidgrundmanns.com/author/thomas-gschwend/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/thomas-gschwend/</link>
+      <atom:link href="/author/thomas-gschwend/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Gschwend</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 David M. Grundmanns</copyright><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/davidgrundmanns.com/author/thomas-gschwend/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/author/thomas-gschwend/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Thomas Gschwend</title>
-      <link>davidgrundmanns.com/author/thomas-gschwend/</link>
+      <link>/author/thomas-gschwend/</link>
     </image>
     
     <item>
       <title>A Common Policy Space. Estimating positions of highest courts and political actors using amici briefs.</title>
-      <link>davidgrundmanns.com/publication/scaling/</link>
+      <link>/publication/scaling/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>davidgrundmanns.com/publication/scaling/</guid>
+      <guid>/publication/scaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Give them the word, they sharpen the sword. How high courts use language to exert political and societal power</title>
-      <link>davidgrundmanns.com/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</link>
+      <link>/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</link>
       <pubDate>Thu, 24 Jun 2021 15:30:00 +0000</pubDate>
-      <guid>davidgrundmanns.com/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</guid>
+      <guid>/talk/give-them-the-word-they-sharpen-the-sword.-how-high-courts-use-language-to-exert-political-and-societal-power/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get the Word Out. The Formation and Political Impact of Judicial Opinion-Writing</title>
-      <link>davidgrundmanns.com/project/mzes/</link>
+      <link>/project/mzes/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>davidgrundmanns.com/project/mzes/</guid>
+      <guid>/project/mzes/</guid>
       <description>&lt;p&gt;How do courts exercise political power through opinion-writing? To understand the influence of courts, current research focuses on the result of judicial decisions, namely whether a referral by a plaintiff is justified or not. This project takes a broader perspective on the influence of judicial opinions. Instead of focusing on the general result, it is necessary to account for the substantive variance in opinion-writing.
 The goal of this project is to use established and novel methods of automated text analysis to map content-related aspects of judicial decisions and relate them to public perception. For example, access to judicial opinions may be easy or difficult, depending on the use of either simple, content-related words or technical jargon specific to a field. Easily accessible opinions are noticed by a larger audience compared to complex opinions that are difficult to process in the media. This implies that judges can influence media coverage through opinion-writing, and this determines to which extent judicial decisions receive public attention. Public attention should not only be observed in traditional media outlets, but also in the way citizens talk about judicial decisions in social media.&lt;/p&gt;
 &lt;p&gt;Consequently, assuming that judges do not generate text by chance, judicial opinions are a strategic instrument. On the one hand, judges develop arguments strategically to influence social developments. On the other hand, judges are limited by the political environment and therefore must adapt their arguments strategically.&lt;/p&gt;
